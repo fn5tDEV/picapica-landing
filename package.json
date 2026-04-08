@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/fn5tDEV/picapica-landing#readme",
   "devDependencies": {
-    "vite": "^8.0.7"
+    "vite": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
