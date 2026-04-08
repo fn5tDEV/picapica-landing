@@ -1,6 +1,6 @@
 {
   "name": "picapica-landing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Picapica Starting Point",
   "main": "index.js",
   "scripts": {
